@@ -22,8 +22,8 @@ The current purpose was to use the basic methods we were shown to work with JS a
 * nodemon "^2.0.7"
 
 ## Setup
-npm init
-npm install --save-dev eslint
+* npm init
+* npm install --save-dev eslint
 ./node_modules/eslint/bin/eslint.js –init
 npm run lint
 npm install --save-dev express
