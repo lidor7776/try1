@@ -24,10 +24,10 @@ The current purpose was to use the basic methods we were shown to work with JS a
 ## Setup
 * npm init
 * npm install --save-dev eslint
-./node_modules/eslint/bin/eslint.js –init
-npm run lint
-npm install --save-dev express
-npm install --save-dev nodemon
+* ./node_modules/eslint/bin/eslint.js –init
+* npm run lint
+* npm install --save-dev express
+* npm install --save-dev nodemon
 
 ## Features
 List of features ready and TODOs for future development
