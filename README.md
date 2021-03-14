@@ -7,41 +7,37 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 This is our current progress after sprint1 task.
 The current purpose was to use the basic methods we were shown to work with JS and to make a basic site with a login and register options.
 
 ## Technologies
+* JavaScript
+* HTML
+* NodeJS
 * chai "^4.2.15"
 * mocha "^8.2.1"
 * eslint "^7.21.0"
 * nodemon "^2.0.7"
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+npm init
+npm install --save-dev eslint
+./node_modules/eslint/bin/eslint.js –init
+npm run lint
+npm install --save-dev express
+npm install --save-dev nodemon
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* have a homepage with login and register buttons
+* can input data into login and register fields
+
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* add input verifications
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
