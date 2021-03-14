@@ -20,6 +20,7 @@ The current purpose was to use the basic methods we were shown to work with JS a
 * mocha "^8.2.1"
 * eslint "^7.21.0"
 * nodemon "^2.0.7"
+* express "^4.17.1"
 
 ## Setup
 * npm init
